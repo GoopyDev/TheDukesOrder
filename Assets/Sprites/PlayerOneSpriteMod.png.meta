@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: c31fbc2b5a402594d855e0d01b396303
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8748458802350618414
+    second: PlayerOneSpriteMod_0
+  - first:
+      213: -6736574989342032580
+    second: PlayerOneSpriteMod_3
+  - first:
+      213: -4659310286386579216
+    second: PlayerOneSpriteMod_0
+  - first:
+      213: 5135954047571445931
+    second: PlayerOneSpriteMod_0
+  - first:
+      213: -3854405592377666177
+    second: PlayerOneSpriteMod_4
+  - first:
+      213: 8786662913147697027
+    second: PlayerOneSpriteMod_4
+  - first:
+      213: -9182907922517887196
+    second: PlayerOneSpriteMod_3
+  - first:
+      213: 5747103479375908974
+    second: PlayerOneSpriteMod_3
+  - first:
+      213: 683518185089947490
+    second: PlayerOneSpriteMod_3
+  - first:
+      213: 7384073841775805454
+    second: PlayerOneSpriteMod_3
+  - first:
+      213: 7326216971727996373
+    second: PlayerOneSpriteMod_7
+  - first:
+      213: 4007516883860090801
+    second: PlayerOneSpriteMod_7
+  - first:
+      213: -8444588560284585869
+    second: PlayerOneSpriteMod_11
+  - first:
+      213: -6014090876755210778
+    second: PlayerOneSpriteMod_12
+  - first:
+      213: 1085495108751879748
+    second: PlayerOneSpriteMod_14
+  - first:
+      213: 1984896981584494738
+    second: PlayerOneSpriteMod_4
+  - first:
+      213: -3898687708006941098
+    second: PlayerOneSpriteMod_8
+  - first:
+      213: 2506990262788008940
+    second: PlayerOneSpriteMod_11
+  - first:
+      213: -7167550472549185419
+    second: PlayerOneSpriteMod_12
+  - first:
+      213: -805226261871011160
+    second: PlayerOneSpriteMod_14
+  - first:
+      213: -4659310286386579216
+    second: PlayerOneSpriteMod_3
+  - first:
+      213: 5135954047571445931
+    second: PlayerOneSpriteMod_1
+  - first:
+      213: 683518185089947490
+    second: PlayerOneSpriteMod_7
+  - first:
+      213: 7384073841775805454
+    second: PlayerOneSpriteMod_7
+  - first:
+      213: 1984896981584494738
+    second: PlayerOneSpriteMod_15
+  - first:
+      213: 2506990262788008940
+    second: PlayerOneSpriteMod_17
+  - first:
+      213: -7167550472549185419
+    second: PlayerOneSpriteMod_13
+  - first:
+      213: -6481812731426870939
+    second: PlayerOneSpriteMod_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_2
+      rect:
+        serializedVersion: 2
+        x: 71.00001
+        y: 568
+        width: 223
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9e04b861b045949bc107e17208925b
+      internalID: -6736574989342032580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1
+        width: 286
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ca22d58dffb64282084136d1ce42f
+      internalID: 8748458802350618414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 724
+        width: 90
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5018797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a1fc796c15fd4691edd9add493b5d
+      internalID: -4659310286386579216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 788
+        width: 127
+        height: 161
+      alignment: 9
+      pivot: {x: 0.51968503, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de556a1c61cda4f84befa674c96cae
+      internalID: 5135954047571445931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 724
+        width: 90
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5018797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836de3a3a2fb5c418e90ecf30894bb4
+      internalID: -9182907922517887196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 285
+        width: 141
+        height: 230
+      alignment: 9
+      pivot: {x: 0.50354606, y: 0.48260868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986cefd615f2dc40b4f9ba73176fae7
+      internalID: 5747103479375908974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 285
+        width: 141
+        height: 230
+      alignment: 9
+      pivot: {x: 0.50354606, y: 0.48260868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ea2d3a78e4b3e499fe3d6b97f0e8f5
+      internalID: 1984896981584494738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_9
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 455
+        width: 145
+        height: 272
+      alignment: 9
+      pivot: {x: 0.49310344, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd11b00cc42ba48bca4687774a06f3
+      internalID: 683518185089947490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 458
+        width: 134
+        height: 259.4325
+      alignment: 9
+      pivot: {x: 0.5298507, y: 0.52229387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc8263eab290a49b10cbae1feaaa13
+      internalID: 7384073841775805454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 281
+        height: 125
+      alignment: 9
+      pivot: {x: 0.4911032, y: 0.536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7a84f2df2ed049a69c9336b911f13
+      internalID: 7326216971727996373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 169
+        width: 143
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709fd29e12143ff45ac8482968d89302
+      internalID: 2506990262788008940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 171
+        width: 142
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5061d629e714945a1dff099006ecf7
+      internalID: -6014090876755210778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 281
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49822062, y: 0.57600003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3d28e1e95bcc48bf307c1b4cd90d9
+      internalID: -3898687708006941098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 18
+        width: 163
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7cd0c1f0258204faa477383d257ea4
+      internalID: -7167550472549185419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerOneSpriteMod_14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 18
+        width: 159
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0fe26cc4388454d8e49d1eecda41f1
+      internalID: -805226261871011160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637085195992689304
+  assetBundleName: 
+  assetBundleVariant: 
